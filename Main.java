@@ -1,7 +1,7 @@
-// PARTNER NAME:
+// PARTNER NAME: Amy Garcia
 // PARTNER NAME:
 // CS111 SECTION #:
-// DATE:
+// DATE: 7/3/25
 
 public class Main
 {
@@ -76,6 +76,7 @@ public class Main
 	 * 
 	 * @param numTacos
 	 */
+	
 	public static void printConfirmation(int numTacos) //TODO: upgrade per documentation
 	{
 		System.out.println("Here you go, buen provecho!");
